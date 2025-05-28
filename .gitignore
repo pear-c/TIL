@@ -3,3 +3,11 @@
 .space/
 .trash/
 
+# 자동 생성된 빈 .md 파일 무시
+**/.md
+*.md~
+*~
+
+# 숨김 파일, 백업 파일 무시
+.DS_Store
+Thumbs.db
